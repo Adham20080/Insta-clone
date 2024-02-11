@@ -33,7 +33,8 @@ body {
 
 @media (max-width: 449px) {
     .l-main {
-        display: block
+        display: flex;
+        margin-top: 80px;
     }
 }
 
@@ -58,6 +59,7 @@ body {
         background: inherit;
         border: none
     }
+
 }
 
 .c-panel {
