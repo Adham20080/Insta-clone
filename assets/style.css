@@ -34,7 +34,7 @@ body {
 @media (max-width: 449px) {
     .l-main {
         display: flex;
-        margin-top: -20px;
+        margin-top: -50px;
     }
 }
 
